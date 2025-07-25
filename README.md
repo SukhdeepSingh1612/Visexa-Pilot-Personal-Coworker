@@ -1,5 +1,7 @@
 # Visexa Pilot
 
+### Deployed on Streamlit : https://hkq8y6bhxj6lrevvlxauq4.streamlit.app/
+
 Visexa Pilot is your **AI-powered personal co-worker** built using [LangGraph](https://www.langchain.com/langgraph), [LangChain](https://www.langchain.com/), and [Streamlit](https://streamlit.io/).  
 It acts as a multi-tool agent capable of browsing, analyzing data, writing code, and iterating on tasks until your **success criteria** are met.
 
